@@ -43,4 +43,9 @@ Body part:
 Amount of time: 
 Holiday food: 
 """
-verbing = input("Name a verb: ")
+verbing = input("Name a verb ending in ING: ")
+place = input("Name a place: ")
+song = input("Name a Christmas song: ")
+adjective_one = input("Name an adjective: ")
+friend = input("Name one of your friends: ")
+verbed = input("Name a verb ending in ED: ")
